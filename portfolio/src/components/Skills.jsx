@@ -58,6 +58,18 @@ function Skills() {
         name : 'Java',
         description: 'Versatile language for building secure and scalable applications',
     },
+      {
+        id:9,
+        icon: <FaJava className="text-6xl text-cyan-600" />,
+        name : 'Java',
+        description: 'Versatile language for building secure and scalable applications',
+    },
+      {
+        id:10,
+        icon: <FaJava className="text-6xl text-cyan-600" />,
+        name : 'Java',
+        description: 'Versatile language for building secure and scalable applications',
+    },
   ];
 
   return (

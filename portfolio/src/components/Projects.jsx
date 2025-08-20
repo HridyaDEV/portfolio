@@ -39,7 +39,7 @@ const projects = [
   {
     title: "ToyCycle",
     description:
-      "uilt a full-stack web application enabling users to resell,or purchase pre-owned toys, encouraging sustainable toy usage.",
+      "Built a full-stack web application enabling users to resell,or purchase pre-owned toys, encouraging sustainable toy usage.",
     technologies: "React.js,MongoDB,Node.js,Express.js,Tailwind CSS, JavaScript",
     delay: 500,
     sourceCode: 'https://github.com/HridyaDEV/softronics-react/tree/main/weather-app',
